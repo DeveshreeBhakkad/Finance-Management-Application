@@ -30,22 +30,23 @@ finance_manager/
 │── finance.db       # SQLite database (auto-created)
 │── backups/         # Backup files stored here
 └── README.md        # Documentation
-
+```
 ---
 
 ## ⚙ Installation & Setup
 
 1. *Clone the repository*
    ```bash
-   git clone https://github.com/your-username/finance_manager.git
+   git clone https://github.com/DeveshreeBhakkad/Finance-Management-Application.git
    cd finance_manager
+   ```
 
-	2.	Install dependencies
+2.	Install dependencies
 
 pip install bcrypt
+    
 
-
-	3.	Run the app
+3.	Run the app
 
 python3 main.py
 
