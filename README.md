@@ -24,6 +24,7 @@ Track *income, expenses, budgets, and savings, generate **reports, and keep your
 
 ## 📂 Project Structure
 
+```bash
 finance_manager/
 │── main.py          # Main application (run this file)
 │── finance.db       # SQLite database (auto-created)
